@@ -15,5 +15,5 @@ Sometimes, I have noticed that the server of this website is down and it cannot 
 In that case you can download the dataset from the following link directly:
 * NEU surface defect database: [Google Drive](https://drive.google.com/open?id=0B5OUtBsSxu1Bdjh4dk1SeGYtNFU)
 
-## References
+### References and credits
 1. Song, K., & Yan, Y. (2013). A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects. Applied Surface Science, 285, 858-864.
