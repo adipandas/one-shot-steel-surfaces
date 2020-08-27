@@ -3,8 +3,9 @@
 This repository contains the codes for the paper:  
 **Deshpande, A. M., Minai, A. A., & Kumar, M. (2020). One-Shot Recognition of Manufacturing Defects in Steel Surfaces.** [[arxiv](https://arxiv.org/abs/2005.05815)] [[paper](https://doi.org/10.1016/j.promfg.2020.05.146)]
 
-
 <img src="assets/one_shot_steel_defect_demo.svg">
+
+Quality control is an essential process in manufacturing to make the product defect-free as well as to meet customer needs. The automation of this process is important to maintain high quality along with the high manufacturing throughput. With recent developments in deep learning and computer vision technologies, it has become possible to detect various features from the images with near-human accuracy. However, many of these approaches are data intensive. Training and deployment of such a system on manufacturing floors may become expensive and time-consuming. The need for large amounts of training data is one of the limitations of the applicability of these approaches in real-world manufacturing systems. In this work, we propose the application of a Siamese convolutional neural network to do one-shot recognition for such a task. Our results demonstrate how one-shot learning can be used in quality control of steel by identification of defects on the steel surface. This method can significantly reduce the requirements of training data and can also be run in real-time.
 
 ### Network Architecture
 
