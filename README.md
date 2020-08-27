@@ -10,6 +10,11 @@ This repository contains the codes for the paper:
 
 <img src="assets/siamese_network.svg" width="800px">
 
+### Training Loss curve
+<div>
+<img src="assets/final_train_loss.svg" width="800px" height="500px"/>
+</div>
+
 ### Requirements
 ```
 numpy
