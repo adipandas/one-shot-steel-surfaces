@@ -5,6 +5,44 @@
 This repository contains the codes for the paper:  
 **Deshpande, A. M., Minai, A. A., & Kumar, M. (2020). One-Shot Recognition of Manufacturing Defects in Steel Surfaces.** [[arxiv](https://arxiv.org/abs/2005.05815)] [[paper](https://doi.org/10.1016/j.promfg.2020.05.146)]
 
+### Requirements
+```
+numpy
+scipy
+matplotlib
+torch
+torchvision
+scikit-learn
+imutils
+opencv-python
+Pillow
+jupyterlab
+```
+
+##### Do the following in given order to install all the packages
+
+Create a python virtual environment, preferrablely using [Anaconda](https://www.anaconda.com/products/individual/get-started).  
+Download anaconda and install from [here](https://www.anaconda.com/products/individual/get-started).  
+To create the virtual environment, open terminal (anaconda prompt) and execute:
+```
+conda create -n steel_p36 python=3.6
+```
+
+Activate python environment in your terminal:
+```
+conda activate steel_p36
+```
+
+Run the following commands in your terminal to install all the dependencies.
+```
+pip install numpy scipy matplotlib
+pip install jupyterlab
+pip install Pillow
+pip install opencv-contrib-python
+pip install -U scikit-learn
+pip install torch torchvision
+```
+
 ## Dataset
 You can get the dataset from the following website:
 
