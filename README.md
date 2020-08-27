@@ -1,11 +1,9 @@
-# one-shot-steel-surfaces
-
-This repository contains the codes for the paper:  
-**Deshpande, A. M., Minai, A. A., & Kumar, M. (2020). One-Shot Recognition of Manufacturing Defects in Steel Surfaces.** [[arxiv](https://arxiv.org/abs/2005.05815)] [[paper](https://doi.org/10.1016/j.promfg.2020.05.146)]
-
 ### One-Shot Recognition of Manufacturing Defects in Steel Surfaces
 
 <img src="assets/one_shot_steel_defect_demo.svg">
+
+This repository contains the codes for the paper:  
+**Deshpande, A. M., Minai, A. A., & Kumar, M. (2020). One-Shot Recognition of Manufacturing Defects in Steel Surfaces.** [[arxiv](https://arxiv.org/abs/2005.05815)] [[paper](https://doi.org/10.1016/j.promfg.2020.05.146)]
 
 ## Dataset
 You can get the dataset from the following website:
