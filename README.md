@@ -6,9 +6,9 @@ This repository contains the codes for the paper:
 
 <img src="assets/one_shot_steel_defect_demo.svg">
 
-## Network Architecture
+### Network Architecture
 
-<img src="assets/siamese_network.svg">
+<img src="assets/siamese_network.svg" width="800px">
 
 ### Requirements
 ```
