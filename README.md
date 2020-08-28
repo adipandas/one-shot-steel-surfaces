@@ -54,13 +54,11 @@ pip install torch torchvision
 ```
 
 ## Dataset
-You can get the dataset from the following website:
-
+Dataset Reference: Song, K., Yan, Y. (2013). A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects. Applied Surface Science, 285, 858-864.  
+You can get the dataset from the following website:  
 * NEU Steel Surface defect dataset [1]: [website](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
 
-Sometimes, I have noticed that the server of this website is down and it cannot be reached.
-
-In that case you can download the dataset from the following link directly:
+Sometimes, I have noticed that the server of this website is down and it cannot be reached. In that case you can download the dataset from the following link directly:  
 * NEU surface defect database: [Google Drive](https://drive.google.com/open?id=0B5OUtBsSxu1Bdjh4dk1SeGYtNFU)
 
 ## Citation
@@ -81,6 +79,3 @@ author= {Aditya M. Deshpande and Ali A. Minai and Manish Kumar},
 keywords= {Computer Vision, Deep Learning, Metallic Surface, Convolutional Neural Network, Defect Detection, One-shot recognition, Industrial Internet of Things, Cyber-physical systems, Siamese neural network, Few-shot learning},
 }
 ```
-
-### References and credits
-* Song, K., & Yan, Y. (2013). A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects. Applied Surface Science, 285, 858-864.
